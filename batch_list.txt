@@ -1,0 +1,3 @@
+/DATA/249/bhe/data_process/DataKMC/DATA /DATA/249/bhe/data_process/DataKMC/subject_order.txt /DATA/249/bhe/data_process/DataKMC/SFG_parcellation SFG 12
+/DATA/249/bhe/data_process/DataKMC/DATA /DATA/249/bhe/data_process/DataKMC/subject_order.txt /DATA/249/bhe/data_process/DataKMC/STG_parcellation STG 12
+/DATA/249/bhe/data_process/DataKMC/DATA /DATA/249/bhe/data_process/DataKMC/subject_order.txt /DATA/249/bhe/data_process/DataKMC/PCG_parcellation PCG 12
